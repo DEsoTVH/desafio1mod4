@@ -34,7 +34,7 @@ const perros = [
       "https://images.unsplash.com/photo-1562714529-94d65989df68?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=765&q=80",
     nombre: "Amenaza Fantasma",
     descripcion:
-      "No dejes que su cara de -pendejito- te distraiga de sus planes.",
+      "No dejes que su cara de pendejito te distraiga de sus planes.",
     tagTexto: "Furia",
     tagColor: "info",
   },
